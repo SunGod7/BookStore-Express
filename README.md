@@ -27,7 +27,6 @@ Credentialed user will get feedback saying their search is invalid if they type 
 17. Credentialed user can edit their own past comments on a book’s show page
 18. Credentialed user will be redirected to “Tagged Books” page upon login
 
-<<<<<<< HEAD
 1. [Download](../../archive/master.zip) this template.
 1. Move the .zip file to your `sei/projects/` directory and Unzip it (creating a
    folder) -- **NOTE:** if the folder was already unzipped, use the `mv` command
@@ -39,9 +38,6 @@ Credentialed user will get feedback saying their search is invalid if they type 
 1. Install dependencies with `npm install`.
 1. Ensure that you have `nodemon` installed by running `npm install -g nodemon`.
 1. Once everything is working, make an initial commit.
-=======
-### WIRE FRAMES
->>>>>>> d89522879cc84ad9de530af4a70241ee7d0c7b9a
 
 ![](Images/photo1.png)
 ![](Images/photo2.png)
@@ -68,7 +64,6 @@ Credentialed user will get feedback saying their search is invalid if they type 
 | Front End SME | Casey Jones |
 | Back End SME(s) | Terrance Wells & Yuntian Zheng |
 
-<<<<<<< HEAD
 The `config` directory holds just `db.js`, which is where you specify the name
 and URL of your database.
 
@@ -215,7 +210,3 @@ Response:
 ```md
 HTTP/1.1 204 No Content
 ```
-=======
-##### STRETCH GOALS
-- auto completing search box that provides suggestions as the user input changes
->>>>>>> d89522879cc84ad9de530af4a70241ee7d0c7b9a
